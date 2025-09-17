@@ -2,8 +2,8 @@
 
 Технології
 
-HTML
-CSS
-JavaScript
+-HTML
+-CSS
+-JavaScript
 
-Проект доступний через GitHub Pages:
+Проект доступний через GitHub Pages: https://colibriss.github.io/Slaider/
